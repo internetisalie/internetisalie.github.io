@@ -1,0 +1,10 @@
+[
+  "glimmer",
+  "glimmer-api",
+  "glimmer-pagination",
+  "glimmer-repository",
+  "glimmer-security",
+  "glimmer-telemetry",
+  "glimmer-template-cli",
+  "glimmer-tool"
+]
