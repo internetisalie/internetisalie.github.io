@@ -10,5 +10,6 @@
   "glimmer-telemetry",
   "glimmer-template-cli",
   "glimmer-tool",
-  "glimmer-vendor-google"
+  "glimmer-vendor-google",
+  "glimmer-vendor-gorilla"
 ]
