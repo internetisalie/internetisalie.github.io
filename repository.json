@@ -9,5 +9,6 @@
   "glimmer-security",
   "glimmer-telemetry",
   "glimmer-template-cli",
-  "glimmer-tool"
+  "glimmer-tool",
+  "glimmer-vendor-google"
 ]

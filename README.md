@@ -10,3 +10,4 @@
 - [glimmer-telemetry](/glimmer-telemetry)
 - [glimmer-template-cli](/glimmer-template-cli)
 - [glimmer-tool](/glimmer-tool)
+- [glimmer-vendor-google](/glimmer-vendor-google)
