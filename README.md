@@ -12,3 +12,4 @@
 - [glimmer-tool](/glimmer-tool)
 - [glimmer-vendor-google](/glimmer-vendor-google)
 - [glimmer-vendor-gorilla](/glimmer-vendor-gorilla)
+- [glimmer-vendor-permify](/glimmer-vendor-permify)
