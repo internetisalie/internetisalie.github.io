@@ -1,6 +1,7 @@
 # internetisalie.github.io
 - [glimmer](/glimmer)
 - [glimmer-api](/glimmer-api)
+- [glimmer-lint](/glimmer-lint)
 - [glimmer-pagination](/glimmer-pagination)
 - [glimmer-repository](/glimmer-repository)
 - [glimmer-security](/glimmer-security)

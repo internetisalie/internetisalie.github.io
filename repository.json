@@ -1,6 +1,7 @@
 [
   "glimmer",
   "glimmer-api",
+  "glimmer-lint",
   "glimmer-pagination",
   "glimmer-repository",
   "glimmer-security",
