@@ -1,6 +1,7 @@
 [
   "glimmer",
   "glimmer-api",
+  "glimmer-demo-platform",
   "glimmer-lint",
   "glimmer-pagination",
   "glimmer-repository",
