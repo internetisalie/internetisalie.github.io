@@ -12,6 +12,7 @@
 - [glimmer-security](/glimmer-security)
 - [glimmer-telemetry](/glimmer-telemetry)
 - [glimmer-template-cli](/glimmer-template-cli)
+- [glimmer-template-demo](/glimmer-template-demo)
 - [glimmer-tool](/glimmer-tool)
 - [glimmer-vendor-google](/glimmer-vendor-google)
 - [glimmer-vendor-gorilla](/glimmer-vendor-gorilla)
