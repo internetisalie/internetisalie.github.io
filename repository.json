@@ -3,6 +3,7 @@
   "glimmer-api",
   "glimmer-demo-platform",
   "glimmer-demo-users",
+  "glimmer-discovery",
   "glimmer-lint",
   "glimmer-pagination",
   "glimmer-repository",
