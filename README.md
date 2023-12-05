@@ -14,3 +14,4 @@
 - [glimmer-vendor-google](/glimmer-vendor-google)
 - [glimmer-vendor-gorilla](/glimmer-vendor-gorilla)
 - [glimmer-vendor-permify](/glimmer-vendor-permify)
+- [glimmer-vendor-postgres](/glimmer-vendor-postgres)
