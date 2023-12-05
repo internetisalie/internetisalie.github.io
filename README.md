@@ -1,6 +1,7 @@
 # internetisalie.github.io
 - [glimmer](/glimmer)
 - [glimmer-api](/glimmer-api)
+- [glimmer-demo-dashboard](/glimmer-demo-dashboard)
 - [glimmer-demo-groups](/glimmer-demo-groups)
 - [glimmer-demo-platform](/glimmer-demo-platform)
 - [glimmer-demo-users](/glimmer-demo-users)
