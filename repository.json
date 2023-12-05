@@ -1,6 +1,7 @@
 [
   "glimmer",
   "glimmer-api",
+  "glimmer-demo-groups",
   "glimmer-demo-platform",
   "glimmer-demo-users",
   "glimmer-discovery",
