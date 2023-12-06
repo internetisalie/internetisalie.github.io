@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8"/>
+    <title>Code</title>
+    <style>
+        * { font-family: sans-serif; }
+        body { margin-top: 0; color-scheme: light dark; background-color: Canvas; color: CanvasText; }
+        .content { position: absolute; top: 50%; left: 50%; transform: translateX(-50%) translateY(-50%); }
+        code { display: block; font-family: monospace; font-size: 1em; background-color: Field; padding: 1em; margin-bottom: 16px; }
+        img { display: inline-block; width: 32px; height: 32px; }
+        ul { margin-top: 16px; margin-bottom: 16px; }
+        h2 { display: flex; align-items:center; }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>{{ .Domain }}</h1>
+        <ul>
+        {{- range .Projects }}
+            <li><a href="/{{.}}">{{.}}</a></li>{{ end }}
+        </ul>
+    </div>
+</body></html>

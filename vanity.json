@@ -1,0 +1,25 @@
+{
+  "domain": "internetisalie.github.io",
+  "projects": [
+    "glimmer",
+    "glimmer-api",
+    "glimmer-demo-dashboard",
+    "glimmer-demo-groups",
+    "glimmer-demo-platform",
+    "glimmer-demo-users",
+    "glimmer-discovery",
+    "glimmer-lint",
+    "glimmer-pagination",
+    "glimmer-repository",
+    "glimmer-security",
+    "glimmer-telemetry",
+    "glimmer-template-cli",
+    "glimmer-template-demo",
+    "glimmer-tool",
+    "glimmer-vendor-google",
+    "glimmer-vendor-gorilla",
+    "glimmer-vendor-opensearch",
+    "glimmer-vendor-permify",
+    "glimmer-vendor-postgres"
+  ]
+}
