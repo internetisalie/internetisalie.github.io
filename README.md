@@ -20,3 +20,4 @@
 - [glimmer-vendor-opensearch](/glimmer-vendor-opensearch)
 - [glimmer-vendor-permify](/glimmer-vendor-permify)
 - [glimmer-vendor-postgres](/glimmer-vendor-postgres)
+- [gonew](/gonew)
