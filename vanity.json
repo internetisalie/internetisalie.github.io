@@ -6,6 +6,7 @@
     "glimmer-demo-dashboard",
     "glimmer-demo-groups",
     "glimmer-demo-platform",
+    "glimmer-demo-tool",
     "glimmer-demo-users",
     "glimmer-discovery",
     "glimmer-lint",

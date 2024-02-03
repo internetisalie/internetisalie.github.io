@@ -5,6 +5,7 @@
 - [glimmer-demo-dashboard](/glimmer-demo-dashboard)
 - [glimmer-demo-groups](/glimmer-demo-groups)
 - [glimmer-demo-platform](/glimmer-demo-platform)
+- [glimmer-demo-tool](/glimmer-demo-tool)
 - [glimmer-demo-users](/glimmer-demo-users)
 - [glimmer-discovery](/glimmer-discovery)
 - [glimmer-lint](/glimmer-lint)
