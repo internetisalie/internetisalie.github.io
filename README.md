@@ -22,3 +22,4 @@
 - [glimmer-vendor-permify](/glimmer-vendor-permify)
 - [glimmer-vendor-postgres](/glimmer-vendor-postgres)
 - [gonew](/gonew)
+- [slogan](/slogan)

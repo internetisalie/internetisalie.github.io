@@ -22,6 +22,7 @@
     "glimmer-vendor-opensearch",
     "glimmer-vendor-permify",
     "glimmer-vendor-postgres",
-    "gonew"
+    "gonew",
+    "slogan"
   ]
 }
