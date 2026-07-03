@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="google" value="notranslate">
-  <title>code.internetisalie.net/{{ . }}</title>
-  <meta name="go-import" content="code.internetisalie.net/{{ . }} git https://github.com/internetisalie/{{ . }}">
-  <meta name="go-source" content="code.internetisalie.net/{{ . }} https://github.com/internetisalie/glimmer https://github.com/internetisalie/{{ . }}/tree/main{/dir} https://github.com/internetisalie/{{ . }}/blob/main{/dir}/{file}#L{line}">
+  <title>code.internetisalie.net/{{ .ImportPath }}</title>
+  <meta name="go-import" content="code.internetisalie.net/{{ .ImportPath }} git https://github.com/internetisalie/{{ .Repo }}">
+  <meta name="go-source" content="code.internetisalie.net/{{ .ImportPath }} https://github.com/internetisalie/glimmer https://github.com/internetisalie/{{ .Repo }}/tree/main{/dir} https://github.com/internetisalie/{{ .Repo }}/blob/main{/dir}/{file}#L{line}">
   <style>
     * { font-family: sans-serif; }
     body { margin-top: 0; color-scheme: light dark; background-color: Canvas; color: CanvasText; }
@@ -18,11 +18,11 @@
 </head>
 <body>
 <div class="content">
-  <h2>code.internetisalie.net/{{ . }}</h2>
-  <code>go get code.internetisalie.net/{{ . }}</code>
-  <code>import "code.internetisalie.net/{{ . }}"</code>
-  GoDoc: <a href="https://pkg.go.dev/code.internetisalie.net/{{ . }}">https://pkg.go.dev/code.internetisalie.net/{{ . }}</a><br/>
-  Source: <a href="https://github.com/internetisalie/{{ . }}">https://github.com/internetisalie/{{ . }}</a><br/>
+  <h2>code.internetisalie.net/{{ .ImportPath }}</h2>
+  <code>go get code.internetisalie.net/{{ .ImportPath }}</code>
+  <code>import "code.internetisalie.net/{{ .ImportPath }}"</code>
+  GoDoc: <a href="https://pkg.go.dev/code.internetisalie.net/{{ .ImportPath }}">https://pkg.go.dev/code.internetisalie.net/{{ .ImportPath }}</a><br/>
+  Source: <a href="https://github.com/internetisalie/{{ .Repo }}">https://github.com/internetisalie/{{ .Repo }}</a><br/>
 </div>
 </body>
 </html>
