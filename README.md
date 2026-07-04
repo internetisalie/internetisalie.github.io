@@ -18,6 +18,7 @@
 - [glimmer-tool](/glimmer-tool)
 - [glimmer-vendor-google](/glimmer-vendor-google)
 - [glimmer-vendor-gorilla](/glimmer-vendor-gorilla)
+- [glimmer-vendor-kubernetes](/glimmer-vendor-kubernetes)
 - [glimmer-vendor-opensearch](/glimmer-vendor-opensearch)
 - [glimmer-vendor-permify](/glimmer-vendor-permify)
 - [glimmer-vendor-postgres](/glimmer-vendor-postgres)
