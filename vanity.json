@@ -10,6 +10,7 @@
     "glimmer-demo-tool",
     "glimmer-demo-users",
     "glimmer-discovery",
+    "glimmer-kubernetes-executor",
     "glimmer-lint",
     "glimmer-pagination",
     "glimmer-repository",

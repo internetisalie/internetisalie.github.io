@@ -9,6 +9,7 @@
 - [glimmer-demo-tool](/glimmer-demo-tool)
 - [glimmer-demo-users](/glimmer-demo-users)
 - [glimmer-discovery](/glimmer-discovery)
+- [glimmer-kubernetes-executor](/glimmer-kubernetes-executor)
 - [glimmer-lint](/glimmer-lint)
 - [glimmer-pagination](/glimmer-pagination)
 - [glimmer-repository](/glimmer-repository)
