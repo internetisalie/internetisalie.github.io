@@ -3,7 +3,6 @@
   "projects": [
     "glimmer",
     "glimmer-api",
-    "glimmer-ci-runner",
     "glimmer-demo-dashboard",
     "glimmer-demo-groups",
     "glimmer-demo-platform",
