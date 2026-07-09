@@ -2,6 +2,7 @@
 
 - [glimmer](/glimmer)
 - [glimmer-api](/glimmer-api)
+- [glimmer-ci-runner](/glimmer-ci-runner)
 - [glimmer-demo-dashboard](/glimmer-demo-dashboard)
 - [glimmer-demo-groups](/glimmer-demo-groups)
 - [glimmer-demo-platform](/glimmer-demo-platform)
