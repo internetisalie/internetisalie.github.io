@@ -17,6 +17,7 @@
     "glimmer-template-cli",
     "glimmer-template-demo",
     "glimmer-tool",
+    "glimmer-vendor-cockroachdb",
     "glimmer-vendor-google",
     "glimmer-vendor-gorilla",
     "glimmer-vendor-kubernetes",
