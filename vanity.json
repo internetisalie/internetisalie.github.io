@@ -1,6 +1,7 @@
 {
   "domain": "internetisalie.github.io",
   "projects": [
+    "containers",
     "glimmer",
     "glimmer-api",
     "glimmer-demo-dashboard",
