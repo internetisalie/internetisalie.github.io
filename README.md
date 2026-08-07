@@ -25,5 +25,6 @@
 - [glimmer-vendor-opensearch](/glimmer-vendor-opensearch)
 - [glimmer-vendor-permify](/glimmer-vendor-permify)
 - [glimmer-vendor-postgres](/glimmer-vendor-postgres)
+- [glimmer-vendor-redis](/glimmer-vendor-redis)
 - [gonew](/gonew)
 - [slogan](/slogan)

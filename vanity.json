@@ -26,6 +26,7 @@
     "glimmer-vendor-opensearch",
     "glimmer-vendor-permify",
     "glimmer-vendor-postgres",
+    "glimmer-vendor-redis",
     "gonew",
     "slogan"
   ]
