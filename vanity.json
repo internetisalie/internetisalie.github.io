@@ -28,6 +28,8 @@
     "glimmer-vendor-postgres",
     "glimmer-vendor-redis",
     "gonew",
+    "loom-cli",
+    "loom-schema",
     "slogan"
   ]
 }
