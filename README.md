@@ -27,4 +27,7 @@
 - [glimmer-vendor-postgres](/glimmer-vendor-postgres)
 - [glimmer-vendor-redis](/glimmer-vendor-redis)
 - [gonew](/gonew)
+- [loom-cli](/loom-cli)
+- [loom-delivery](/loom-delivery)
+- [loom-schema](/loom-schema)
 - [slogan](/slogan)

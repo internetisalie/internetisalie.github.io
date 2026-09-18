@@ -29,6 +29,7 @@
     "glimmer-vendor-redis",
     "gonew",
     "loom-cli",
+    "loom-delivery",
     "loom-schema",
     "slogan"
   ]
